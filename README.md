@@ -8,7 +8,7 @@
 
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://charity4u.netlify.app/)
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Charity4u)
 
 ## Overview 👀
 <img src="images/Charity1.jpg">
@@ -19,35 +19,27 @@
 <img src="images/Charity6.jpg">
 
 
-- Interview Preparation with Peer 👨‍💻
-- Real time video chat 📹 as well as normal chat 💬 with Peer
-- Multi user 👬🏼 group video chat 📹 feature is also available in peercoder
+- Charity donation campaign 💸 to promote girl 👧 child education
+- Feed them with proper meal 🍔 and give treatment in hospital 🏥 if there is a need 
+- FAQ ❓sectiion and contact ☎ section to resolve donor's queries
 - Clean UI ⚡
-- Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
-- Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
-- If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
 
-## What is Peer Coder? 🤔
+## What is Charity4u? 🤔
 
-#### Remote pair programming is something developers have grappled with since well before the pandemic began. 
-#### Peercoder is basically a platform where two peers can do their interview preparation by practicing DSA problems and improve their problem solving skills.
-#### Peer Coder is ideal for Online Interviewing of Developers as well as Learning to code from Friends.
+#### Charity4u is a donation website where users can donate amount using razorpay payment gateway integration through "Donate here" button.
+#### The donation will be reflected in girl child education, feeding them with proper meal and doing proper treatment by donating funds in hospital’s. 
 
 
 ## How it works? 🤔
 - **Open the website [https://charity4u.netlify.app/](https://charity4u.netlify.app/)**
-- **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
-- **For Video Chat, peer just need to copy a unique id and send it to peer with whom he/she want to chat.**
-- **For group video chat part, user may join meeting as host or as an attendee. Also in it audio and video controls can be easily controlled by the user.**
-- **Screen sharing feature is also available for every user in case of group video chat.**
+- **Donor just needs to click on "Donate here" button in home page, after that user may continue further by entering all their account details as well as the amount number which they want to donate.**
+- **Donor can also read the FAQ section present in the website, if after that also donor's doubt is not cleared then they may fill the contact form present on the ContactUs page of the website with all necessary details asked in the form.**
 
 
 ## Dependencies 🗃
 
-- [React.js](https://reactjs.org/) - **Frontend Framework**
-- [Node.js](https://nodejs.org/en/) - **Backend Framework**
-- [Express.js](https://expressjs.com/) - **Server Side Node.js Framework**
-- [Socket.io](https://socket.io/) - **Client-Server Communication**
+- [Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/) - **Frontend Framework**
+- [Razorpay API](https://razorpay.com/) - **Server Side Payment Gateway Integration**
 
 ## Run Locally 💻
 
@@ -55,16 +47,12 @@
 > Clone the repo
     >> For Windows: Git Bash
     >> For Linux: Terminal
-    >> git clone https://github.com/ROHAN842/peercoder.git
-    >> cd Peercoder
+    >> git clone https://github.com/ROHAN842/Charity4u.git
+    >> cd Charity4u
 > Install all dependencies
     >> npm i
-> Spin the server on port 5000
-    >> cd src
-    >> nodemon or node index.js
-> Spin the react on port 3000
-    >> cd client
-    >> npm start
-> Visit the website on http://localhost:3000/
+> Spin the live server on port 127.0.0.1
+
+> Visit the website on http://127.0.0.1:5500/
     
 ```
