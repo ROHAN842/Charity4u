@@ -14,10 +14,12 @@
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
 
 ## Overview 👀
-<img src="images/Peercoder11.jpg">
-<img src="images/Peercoder12.jpg">
-<img src="images/videochat5.jpg">
-<img src="images/videochat2.jpg">
+<img src="images/Charity1.jpg">
+<img src="images/Charity5.jpg">
+<img src="images/Charity4.jpg">
+<img src="images/Charity2.jpg">
+<img src="images/Charity3.jpg">
+<img src="images/Charity6.jpg">
 
 
 - Interview Preparation with Peer 👨‍💻
