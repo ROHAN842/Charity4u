@@ -1,16 +1,13 @@
-# [Peercoder](https://peercoder.herokuapp.com/) ⭐
+# [Charity4u](https://charity4u.netlify.app/) ⭐
 
-![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
+![JavaScript](https://img.shields.io/badge/Powered%20By-JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercoder.herokuapp.com/)
+
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://charity4u.netlify.app/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
 
 ## Overview 👀
@@ -38,7 +35,7 @@
 
 
 ## How it works? 🤔
-- **Open the website [https://peercoder.herokuapp.com/](https://peercoder.herokuapp.com/)**
+- **Open the website [https://charity4u.netlify.app/](https://charity4u.netlify.app/)**
 - **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
 - **For Video Chat, peer just need to copy a unique id and send it to peer with whom he/she want to chat.**
 - **For group video chat part, user may join meeting as host or as an attendee. Also in it audio and video controls can be easily controlled by the user.**
