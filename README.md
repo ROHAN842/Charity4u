@@ -11,7 +11,7 @@
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Charity4u)
 
 ## Overview 👀
-<img src="images/Charity1.jpg">
+<img src="images/Charity.jpg">
 <img src="images/Charity5.jpg">
 <img src="images/Charity4.jpg">
 <img src="images/Charity2.jpg">
