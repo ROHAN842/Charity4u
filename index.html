@@ -113,47 +113,8 @@
                             <p>With this donation campaign anyone can donate amount. Even small contribution will be reflected in girl child education, feeding them with proper meal and doing proper treatment by donating funds in hospital’s.</p>
                             <!-- <a href="https://rebrand.ly/base-gg" rel="nofollow" target="_blank" class="button button-lg radius-50">Get Started</a> -->
                             <div>
-                                <form>
-                                    <button id="rzp-button1" rel="nofollow" target="_blank" class="button button-lg radius-50">
-                                  Donate here
-                                </button>
-                                    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
-                                    <script>
-                                        var options = {
-                                            key: "rzp_test_aIfnpuWEudWnID", // Enter the Key ID generated from the Dashboard
-                                            amount: "5000", // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
-                                            currency: "INR",
-                                            name: "Hello User!!",
-                                            description: "Kindly donate for girl child empowerment",
-                                            handler: function(response) {
-                                                if (
-                                                    typeof response.razorpay_payment_id == "undefined" ||
-                                                    response.razorpay_payment_id < 1
-                                                ) {
-                                                    swal({
-                                                        title: "Please try again later!",
-                                                        icon: "error",
-                                                        button: "Close",
-                                                    });
-                                                } else {
-                                                    swal({
-                                                        title: "Thank You!",
-                                                        icon: "success",
-                                                        button: "Close",
-                                                    });
-                                                }
-                                            },
-                                            theme: {
-                                                color: "#3399cc",
-                                            },
-                                        };
-                                        var rzp1 = new Razorpay(options);
-                                        document.getElementById("rzp-button1").onclick = function(
-                                            e
-                                        ) {
-                                            rzp1.open();
-                                            e.preventDefault();
-                                        };
+                                                                <form>
+                                    <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KTbEtyUrXL333w" async>
                                     </script>
                                 </form>
                             </div>
@@ -356,7 +317,7 @@
                 </div>
             </div>
             <div class="copyright-wrapper">
-                <p>Design and Developed with ❤️ by <a id="Rohan" href="https://www.linkedin.com/in/rohanmodi-79647819a/" rel="nofollow" target="_blank">Rohan Modi</a></p>
+                <p>Design and Developed with ❤️ by <a id="Rohan" href="https://contact-rohan.netlify.app/" rel="nofollow" target="_blank">Rohan Modi</a></p>
             </div>
         </div>
     </footer>
